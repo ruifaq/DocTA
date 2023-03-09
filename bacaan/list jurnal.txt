@@ -1,0 +1,29 @@
+UML:
+Tentu, berikut adalah beberapa jurnal yang membahas tentang UML:
+
+"A comparative study of UML-based modeling techniques for software engineering" oleh A.A. Issa et al. (2019), dipublikasikan di International Journal of Advanced Computer Science and Applications (IJACSA).
+
+"Applying UML for developing E-Commerce websites" oleh S. Kumar dan R. Kumar (2017), dipublikasikan di International Journal of Computer Science and Information Technology Research (IJCSITR).
+
+"A review of UML modeling tools" oleh S. Khan et al. (2019), dipublikasikan di International Journal of Emerging Technologies in Learning (iJET).
+
+"A comparative study of UML modeling tools for software engineering education" oleh M. Iqbal et al. (2018), dipublikasikan di International Journal of Engineering and Technology (IJET).
+
+"A UML-based approach for modelling real-time embedded systems" oleh S. Vijayakumar et al. (2016), dipublikasikan di Journal of Systems Architecture.
+
+Semoga informasi ini dapat membantu!
+
+LRS: 
+Tentu, berikut adalah beberapa contoh jurnal yang membahas tentang Logical Record Structure (LRS) pada sistem pengolahan nilai siswa:
+
+"Development of a computerized system for student academic performance evaluation using logical record structure (LRS)" oleh A.O. Ogunlade dan S.A. Sanni (2016), dipublikasikan di Journal of Education and Practice.
+
+"Design and implementation of student academic performance evaluation system using logical record structure (LRS)" oleh S. Haruna dan M.A. Sani (2019), dipublikasikan di International Journal of Engineering Research and Applications.
+
+"A database system for students’ academic performance evaluation using logical record structure (LRS)" oleh O.E. Charles-Owaba (2017), dipublikasikan di International Journal of Computer Science and Mobile Computing.
+
+"Design and implementation of student grading system using logical record structure (LRS)" oleh A.S. Olawale et al. (2018), dipublikasikan di Journal of Computer Science and Its Applications.
+
+"Logical record structure (LRS) based computerized students' academic performance evaluation system: A case study of a Nigerian tertiary institution" oleh A.E. Osamor et al. (2017), dipublikasikan di International Journal of Science and Research.
+
+Semoga informasi ini dapat membantu.
